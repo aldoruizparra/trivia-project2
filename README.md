@@ -1,6 +1,6 @@
 # Project 4 - *trivia-project2*
 
-Submitted by: **Aldo Ruiz Parra*
+Submitted by: **Aldo Ruiz Parra**
 
 **Trivia Project 2** is an app that simulates a trivia games, and fetches questions from Open Trivia Database API 
 
@@ -36,7 +36,7 @@ Link:https://www.loom.com/share/64a433732cbf46ff97be897f9fc2ed8e?sid=583a810a-b4
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+I struggled mostly just understanding how to access the API and interacting it with the UI
 ## License
 
     Copyright [yyyy] [name of copyright owner]
